@@ -1,4 +1,4 @@
-AI-Based Credit Card Fraud Detection System
+ AI-Based Credit Card Fraud Detection System
 
 A machine learning project for detecting fraudulent credit card transactions using classification algorithms. This solution uses real-world, imbalanced data and incorporates various techniques including preprocessing, resampling (SMOTE), and model evaluation.
 Project Overview
